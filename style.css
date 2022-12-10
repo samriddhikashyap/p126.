@@ -1,0 +1,22 @@
+body
+{
+	text-align: center;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/331/308/999/headphones-music-minimalism-wallpaper-preview.jpg");
+	background-size: contain;
+
+
+}
+span
+{
+	font-size: 12px;
+	color: red;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+}
+
+#btn{
+	background-color: antiquewhite;
+}
